@@ -15,3 +15,9 @@ Welcome to my academic portfolio for CEB146 NBB!
 - [ ] Complete all lab assignments
 - [ ] Build a professional portfolio
 - [ ] Collaborate on group projects
+##  Contact Me
+
+-  Email: your-email@example.com  
+-  LinkedIn: https://linkedin.com/in/your-profile  
+- GitHub: https://github.com/your-username  
+-  Portfolio: https://your-website.com (optional)
